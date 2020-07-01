@@ -1,15 +1,15 @@
 {
-  "token": "Your discord token",
-  "ownerID": "Your Discord ID",
+  "token": "NTIxODAyMDI2NjQ5MjU1OTU2.XvvGBQ.fDVcYrhfgkc5a5PrkoQD2XCBAYs",
+  "ownerID": "521802026649255956",
   "prefix": "-",
-  "rotatePlayingGame": true,
+  "rotatePlayingGame": false,
   "rotatePlayingGameTime" : 150000,
   "rotatePlayingGameInStreamingStatus": false,
-  "rotateAvatarImage": true,
+  "rotateAvatarImage": false,
   "rotateAvatarImageTime" : 600000,
-  "defaultStatus": "idle",
+  "defaultStatus": "dnd",
   "PSN": {
-    "enabled": true,
+    "enabled": false,
     "email": "Your PSN E-mail",
     "password": "Your PSN password",
     "psnID": "Your PSNid"
@@ -21,13 +21,13 @@
   },
   "mentionNotificator": {
     "inConsole": true,
-    "inNotificationChannel": true,
+    "inNotificationChannel": false,
     "logBlockedUsers": false,
     "ignoredServers": ["SERVER ID"]
   },
   "keywordNotificator": {
     "inConsole": true,
-    "inNotificationChannel": true,
+    "inNotificationChannel": false,
     "logBlockedUsers": false,
     "caseInsensitive": true,
     "ignoredServers": ["SERVER ID"]
